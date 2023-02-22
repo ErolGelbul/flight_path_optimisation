@@ -11,7 +11,11 @@ If you would like to learn more about the project, then please, head over to my 
 <!-- ABSTRACT -->
 ## Abstract
 
-This report is about finding an algorithm to optimise the transatlantic flight route, departing from North America to Europe. The project aims to investigate all possible variables that affect this travel corridor, such as weather conditions, transatlantic wind maps, turbulence, airplane statistics etc. The project begins with an exploration phase with the calculation of the distance that needs to be traversed which is the great circle distance. Various trigonometry methodologies involving spherical and geodesic mathematics is introduced and one methodology is picked. After this flight path’s distance is calculated, a simulation is prepared to optimise this flight path by altering the course of the plane using tailwind and avoiding headwind to reach the destination faster. Ultimately, the final algorithm outputted a flight path that aided the flight to reach its destination 6.2 minutes faster than the flight time when the plane traversed the regular great circle distance. The algorithm achieved $3,170.34 profit for the airline company.
+This report describes the development of an algorithm to optimize the transatlantic flight route from North America to Europe. The project aims to identify the factors that affect this travel corridor, including weather conditions, transatlantic wind maps, turbulence, and airplane statistics.
+
+The project begins with an exploration phase that calculates the distance of the great circle route. Various trigonometric methodologies involving spherical and geodesic mathematics are introduced, and the most suitable methodology is selected. After calculating the flight path's distance, a simulation is conducted to optimize the flight path by adjusting the plane's course to take advantage of tailwinds and avoid headwinds, resulting in a faster arrival at the destination.
+
+The final algorithm outputted a flight path that reduced flight time by 6.2 minutes compared to the regular great circle route. This optimization resulted in a profit of $3,170.34 for the airline company.
 
 <!-- ABSTRACT -->
 ## Getting Started
