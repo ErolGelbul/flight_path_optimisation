@@ -89,7 +89,7 @@ If you would like to add any extra features to the optimisation simulation, feel
 <!-- CONTACT -->
 ## Contact
 
-Erol Gelbul - [Website](http://www.erolgelbul.com) - erolgelbul@gmail.com
+Erol Gelbul - [Website](http://www.erolgelbul.com)
 
 Project Link: [Flight Path Optimisation](https://github.com/ErolGelbul/flight_path_optimisation)
 
