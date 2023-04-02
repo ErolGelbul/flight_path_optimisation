@@ -6,7 +6,7 @@
 ## 1. Introduction
 
 This project is my dissertation which got me a first-class. Markdown will only
-be explaining how to set up the files.
+be explaining how to set up the files. You can find the full paper [here](https://github.com/ErolGelbul/flight_path_optimisation/blob/master/Optimising%2BTransatlantic%2BFlight%2BPaths.pdf).
 
 <!-- ACKNOWLEDGMENTS -->
 ### 1.1 Acknowledgments
