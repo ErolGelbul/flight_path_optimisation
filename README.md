@@ -1,24 +1,52 @@
 <div id="top"></div>
 
-<div style="text-align:center"><img src="images/cover.png" /></div>
+<div style="text-align:center"><img src="images/cover_image.jpg" /></div>
 
 <!-- ABOUT THE PROJECT -->
-## Optimising Transatlantic Flight Paths
+## 1. Introduction
 
-This project is my dissertation which got me a first-class. Markdown will only be explaining how to set up the files and I will present the abstract.
-If you would like to learn more about the project, then please, head over to my [blog post](https://erolgelbul.com/project-blog/optimising-transatlantic) for an in-depth explanation on the project. My paper is also available on the post.
+This project is my dissertation which got me a first-class. Markdown will only
+be explaining how to set up the files.
+
+<!-- ACKNOWLEDGMENTS -->
+### 1.1 Acknowledgments
+
+I would like to express my deepest gratitude to my supervisor, Stephen Hunt, for
+his invaluable time, guidance, and support throughout this journey. Having
+achieved a first-class grade, I am immensely proud to honor the commitment and
+dedication he has shown since teaching my very first class at university. I have
+had the great privilege of being his student and learning from his vast
+knowledge and expertise throughout my academic career. Thank you, Stephen, for
+your unwavering belief in my potential, and for playing a pivotal role in my
+academic success. Your mentorship has truly helped me become the scholar I am
+today.
+
 
 <!-- ABSTRACT -->
-## Abstract
+### 1.2 Abstract
 
-This report describes the development of an algorithm to optimize the transatlantic flight route from North America to Europe. The project aims to identify the factors that affect this travel corridor, including weather conditions, transatlantic wind maps, turbulence, and airplane statistics.
+This report describes the development of an algorithm to optimize the
+transatlantic flight route from North America to Europe. The project aims to
+identify the factors that affect this travel corridor, including weather
+conditions, transatlantic wind maps, turbulence, and airplane statistics.
 
-The project begins with an exploration phase that calculates the distance of the great circle route. Various trigonometric methodologies involving spherical and geodesic mathematics are introduced, and the most suitable methodology is selected. After calculating the flight path's distance, a simulation is conducted to optimize the flight path by adjusting the plane's course to take advantage of tailwinds and avoid headwinds, resulting in a faster arrival at the destination.
 
-The final algorithm outputted a flight path that reduced flight time by 6.2 minutes compared to the regular great circle route. This optimization resulted in a profit of $3,170.34 for the airline company.
+The project begins with an exploration phase that calculates the distance of the
+great circle route. Various trigonometric methodologies involving spherical and
+geodesic mathematics are introduced, and the most suitable methodology is
+selected. After calculating the flight path's distance, a simulation is
+conducted to optimize the flight path by adjusting the plane's course to take
+advantage of tailwinds and avoid headwinds, resulting in a faster arrival at the
+destination.
+
+
+The final algorithm outputted a flight path that reduced flight time by 6.2
+minutes compared to the regular great circle route. This optimization resulted
+in a profit of $3,170.34 for the airline company.
+
 
 <!-- ABSTRACT -->
-## Getting Started
+## 2. Getting Started
 
 Before forking the files, please, make sure you have pyton3 and MATLAB installed. MATLAB is not free, therefore, you may need to get a license. If you own a license,
 please follow to MATLAB's website. The project does use additional MATLAB libraries, although if you would like to see the simulation in real-time, make sure you have MATLAB 2021b or above installed.
@@ -56,7 +84,7 @@ For more details, see this gist - [Set up a Python 3 virtual environment](https:
 
 
 <!-- SET-UP -->
-## Setting up MATLAB
+## 2.1 Setting up MATLAB
 
 1. Download project files.
 2. Run MATLAB.
@@ -70,24 +98,8 @@ For more details, see this gist - [Set up a Python 3 virtual environment](https:
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-If you would like to add any extra features to the optimisation simulation, feel free to fork and create a pull request. Thank you!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-
 <!-- CONTACT -->
-## Contact
+## 3. Contact
 
 Erol Gelbul - [Website](http://www.erolgelbul.com)
 
@@ -97,11 +109,6 @@ Project Link: [Flight Path Optimisation](https://github.com/ErolGelbul/flight_pa
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
 
-I would like to thank my university for the MATLAB license, and special thanks to my supervisor, Stephen Hunt, for his time and help. 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
